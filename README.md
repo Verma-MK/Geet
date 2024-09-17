@@ -2,7 +2,7 @@
 <br>
 <h3>Description</h3>
 <br>
-Geet is a web-based music player that allows users to browse, search, and play music albums from a local server. The platform includes a login system and a modern UI for browsing albums and playing tracks seamlessly.
+Geet is a web-based music player that allows users to play music albums from a local server. The platform includes a login system and a modern UI for browsing albums and playing tracks seamlessly.
 <br>
 <h3>Features</h3>
 <br>
@@ -12,7 +12,7 @@ Geet is a web-based music player that allows users to browse, search, and play m
 <br>
 <b>Album Display : </b>Displays available albums dynamically from the server.
 <br>
-<b>Track Information : </b>Track Information : Shows track details including title and artist.
+<b>Track Information : </b>Shows track details including title and artist.
 <br>
 <b>Seek and Volume Control : </b>Interactive seek bar and volume control for better user experience.
 <br>
@@ -29,6 +29,7 @@ Geet is a web-based music player that allows users to browse, search, and play m
 <b>login.html : </b>The login page for user authentication.
 <br>
 <b>script.js : </b>JavaScript functionality for fetching albums, handling track playback, and managing UI interactions.
+<br>
 <br>
 <b>Note</b>
 <br>
